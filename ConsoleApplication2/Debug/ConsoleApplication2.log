@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  ConsoleApplication2.cpp
+c:\users\m.slivinschi\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(107): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ConsoleApplication2.vcxproj -> c:\Users\m.slivinschi\source\repos\ConsoleApplication2\Debug\LabMD1.exe
